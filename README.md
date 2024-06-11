@@ -1,6 +1,6 @@
 # 游戏销量 数据分析
 
-<div class="tenor-gif-embed" data-postid="269890388739476002" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/huahua-huahuapanda-tracee-panda-cute-gif-269890388739476002">Huahua Huahuapanda GIF</a>from <a href="https://tenor.com/search/huahua-gifs">Huahua GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif)
 
 ## 数据源
 数据源来源于 [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) 平台；数据从[vgchartz.com](vgchartz.com)网站收集而来. 该数据包含超过`100,000`个游戏销售数据。
