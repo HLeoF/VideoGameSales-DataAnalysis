@@ -102,7 +102,9 @@ $$\frac{\text{Messing Values in Column of Year}}{\text{Total Rows}} = \frac{271}
 
 ### 仪表盘演示Demo
 
-[![PowerBI Video Game Dashboard Demo](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/10.jpg)](https://youtu.be/YZgbDgM4ecY)
+"`markdown
+![Video Game Dashboard Demo](https://youtu.be/YZgbDgM4ecY)
+"`
 
 ## 项目文件
 
