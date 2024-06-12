@@ -100,6 +100,10 @@ $$\frac{\text{Messing Values in Column of Year}}{\text{Total Rows}} = \frac{271}
 你可以通过 [这里](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection) 直接在线访问我的仪表盘，或者扫描 QR Code 进行访问：
 ![仪表 QR Code](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/13.jpeg)
 
+### 仪表盘演示Demo
+
+title: PowerBI Video Game Dashboard Demo 
+product_video: 'https://youtu.be/YZgbDgM4ecY'
 
 ## 项目文件
 
