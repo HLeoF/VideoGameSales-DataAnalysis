@@ -85,9 +85,22 @@ $$\frac{\text{Messing Values in Column of Year}}{\text{Total Rows}} = \frac{271}
 
 排名前十的分别是`Wii Sports`、`Grand Theft Auto V`、`Mario Kart Wii`、`FIFA 15`、`Call of Duty: Modern Warfare 3`、`FIFA 16`、`FIFA 14`、`Call of Duty: Black Ops II`、`Wii Sports Resort`和`Nintendogs`。`Wii Sports`凭借其创新的体感操作和家庭娱乐性质稳居首位，而`Grand Theft Auto V`则因其开放世界和丰富的游戏内容紧随其后。FIFA系列游戏在欧洲市场表现尤为突出，`FIFA 15`、`FIFA 16`和`FIFA 14`都位列前十，显示出欧洲玩家对足球游戏的热爱。任天堂的`Mario Kart Wii`和`Wii Sports Resort`也深受欢迎，显示了其在家庭娱乐方面的强大吸引力。`Call of Duty`系列中的`Modern Warfare 3`和`Black Ops II`在欧洲市场也取得了显著的成功，吸引了大量喜欢动作和射击类游戏的玩家。
 
+## Power BI 游戏销量仪表盘
 
 
+![[游戏平台 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection)]()
+
+![[游戏发行商 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection4ba55bc9051839a90492)]()
+
+![[游戏 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection742c903e2c7508c3e3bd)]()
 
 
+你可以通过 [这里]() 直接在线访问我的仪表盘，或者扫描 QR Code 进行访问 ![仪表 QR Code]()
 
+
+## 项目文件
+
+**Jupyter Notebook:** [数据清洗&EDA](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/VGSales-DataAnalysis.ipynb)
+
+**Power BI:** [仪表盘.pbix 文件](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/vgboard.pbix)
 
