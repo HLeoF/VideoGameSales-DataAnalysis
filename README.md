@@ -87,15 +87,18 @@ $$\frac{\text{Messing Values in Column of Year}}{\text{Total Rows}} = \frac{271}
 
 ## Power BI 游戏销量仪表盘
 
+[游戏平台 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection)
+![](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/10.jpg)
 
-![[游戏平台 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection)](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/10.jpg)
+[游戏发行商 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection4ba55bc9051839a90492)
+![](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/11.jpg)
 
-![[游戏发行商 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection4ba55bc9051839a90492)](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/11.jpg)
+[游戏 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection742c903e2c7508c3e3bd)
+![](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/12.jpg)
 
-![[游戏 - 模块](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection742c903e2c7508c3e3bd)](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/12.jpg)
 
-
-你可以通过 [这里](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection) 直接在线访问我的仪表盘，或者扫描 QR Code 进行访问 ![仪表 QR Code](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/13.jpeg)
+你可以通过 [这里](https://app.powerbi.com/groups/me/reports/adc1a44e-eba8-44d8-8c6a-d81b811a6952/ReportSection) 直接在线访问我的仪表盘，或者扫描 QR Code 进行访问：
+![仪表 QR Code](https://github.com/HLeoF/VideoGameSales-DataAnalysis/blob/main/img/13.jpeg)
 
 
 ## 项目文件
