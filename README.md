@@ -102,9 +102,7 @@ $$\frac{\text{Messing Values in Column of Year}}{\text{Total Rows}} = \frac{271}
 
 ### 仪表盘演示Demo
 
-"`markdown
-![Video Game Dashboard Demo](https://youtu.be/YZgbDgM4ecY)
-"`
+[Video Game Sales Power BI Dashboard Demo](https://youtu.be/YZgbDgM4ecY)
 
 ## 项目文件
 
